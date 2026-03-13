@@ -6,12 +6,6 @@
 
 ## 🎓 About Me
 
-- **University**: Shanghai Ocean University (上海海洋大学)
-- **College**: Ai'en College (爱恩学院)
-- **Major**: Information Management and Information Systems
-- **Class**: 信管一班
-- **Student ID**: 2191146
-- **Graduation**: 2025
 - **Research Interests**: Machine Learning, Image Quality Assessment, Climate Prediction
 
 ---
@@ -81,7 +75,6 @@
 
 - **Email**: 1411795718@qq.com
 - **GitHub**: [@Moshenluo](https://github.com/Moshenluo)
-- **Location**: Shanghai, China
 
 ---
 
